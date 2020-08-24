@@ -11,7 +11,6 @@
     <h2> VISIÓN </h2> 
      En el 2025 El Colegio “El Libertador” I.E.D. será reconocido como una Institución líder en la formación de bachilleres técnicos en informática que se caractericen por su alto nivel de desempeño en los ámbitos académico, social y laboral.
 </p>
-    
       <ul>
          <h1> METAS </h1>
         <li>El Colegio proyecta dinamizar en el estudiante procesos de pensamiento que le permitan construir competencias básicas, laborales y de continuidad en su formación académica de acuerdo con sus intereses y necesidades, con visión de futuro.  </li>
