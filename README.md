@@ -18,7 +18,6 @@
         </li>
        <li>El Colegio facilitará al estudiante la construcción de competencias, habilidades y destrezas específicas y laborales que le permitan enfrentar con éxito los retos que le ofrece el mundo moderno, en especial en el manejo de las competencias informáticas y el uso de estas en su desempeño personal, familiar y laboral.
 </ul>       
-   bun> clik para la paguina siguiente </butoon>
 
 </body>
 
