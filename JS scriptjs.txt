@@ -1,0 +1,4 @@
+var button = document.querySelector("#btn");
+button.onckick=function() {
+   button.classlist.add("animate" , "pulse");
+};
